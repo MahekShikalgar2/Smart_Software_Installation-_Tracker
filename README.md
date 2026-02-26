@@ -19,12 +19,14 @@ Java, Swing, JDBC, MySQL, OOP, PowerShell
 
 ---
 
-#### 🖼️ Screenshots
+#### 🖼️ Installation List
+<img src="SmartSoftwareTracker/ins.jpeg" width="800"/>
 
-![Installation List](SmartSoftwareTracker/ins.jpeg)
-![Add Software Dialog](SmartSoftwareTracker/add.jpeg)
-![Main Dashboard](SmartSoftwareTracker/img.jpeg)
+#### 🖼️ Add Software Dialog
+<img src="SmartSoftwareTracker/add.jpeg" width="800"/>
 
+#### 🖼️ Main Dashboard
+<img src="SmartSoftwareTracker/img.jpeg" width="800"/>
 ---
 
 ## ▶️ How to Run
