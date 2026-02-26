@@ -23,9 +23,9 @@ Java, Swing, JDBC, MySQL, OOP, PowerShell
 
 Place your screenshots inside the project folder.
 
-![Installation List](ins.png)
-![Add Software Dialog](add.png)
-![Main Dashboard](img.png)
+![Installation List](ins.jpeg)
+![Add Software Dialog](add.jpeg)
+![Main Dashboard](img.jpeg)
 ---
 
 ## ▶️ How to Run
