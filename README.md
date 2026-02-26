@@ -21,11 +21,10 @@ Java, Swing, JDBC, MySQL, OOP, PowerShell
 
 #### 🖼️ Screenshots
 
-Place your screenshots inside the project folder.
+![Installation List](SmartSoftwareTracker/ins.jpeg)
+![Add Software Dialog](SmartSoftwareTracker/add.jpeg)
+![Main Dashboard](SmartSoftwareTracker/img.jpeg)
 
-![Installation List] (SmartSoftwareTracker/ins.jpeg)
-![Add Software Dialog] (SmartSoftwareTracker/add.jpeg)
-![Main Dashboard] (SmartSoftwareTracker/img.jpeg)
 ---
 
 ## ▶️ How to Run
